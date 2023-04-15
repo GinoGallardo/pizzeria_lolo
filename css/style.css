@@ -1,0 +1,114 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  color: black;
+  text-transform: uppercase;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgba(243, 234, 234, 0.692);
+  position: sticky;
+  top: 0;
+}
+
+
+
+.container-carrusel{
+  margin-top: 2em;
+  margin-left: 4em;
+}
+
+/* seccion pizza */
+
+.pizzas{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/fondo-pizza.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2em;
+}
+.h2-secciones{
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.tablas{
+  color: #fff;
+  width: 100%;
+  padding: 2em .5em;
+  margin: .5em 0 1.5em 0;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  background: rgba(0, 0, 0, .5);
+}
+
+.tablas tr{
+  padding: .5em;
+  margin: 1em;
+}
+
+.td_servicio{
+  padding-bottom: 1.5em;
+}
+.td_precio{
+  padding-bottom: 1.5em;
+}
+
+/* Secion Empanadas */
+
+.empanadas{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/empanadas-LOLO.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2em;
+}
+
+/* seccion sandwich */
+
+.sandwich{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/sandwich.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2em;
+}
+
+/* seccion hamburguesa */
+
+.hamburguesa{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/hamburguesa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2em;
+}
+
+
+/* seccion menu */
+
+.menu{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/milanesa-napolitana.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2em;
+}
+
+/* footer */
+
+.footer{
+  color: #fff;
+  background-color: #333;
+  align-items: ;
+}
+.whatsapp{
+  color: lawngreen;
+}
+
